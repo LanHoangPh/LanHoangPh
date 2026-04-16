@@ -39,7 +39,6 @@ I am a dedicated IT graduate from **FPT Polytechnic** with a strong passion for 
 
 - 📞 **Phone:** 0368794219
 - 📧 **Email:** [lehoanglanlh23@gmail.com](mailto:lehoanglanlh23@gmail.com)
-- 💼 **LinkedIn:** [Your-LinkedIn-Link-Here]
 - 📍 **Location:** Nam Tu Liem, Ha Noi
 
 ---
