@@ -43,8 +43,4 @@ I am a dedicated IT graduate from **FPT Polytechnic** with a strong passion for 
 - 📍 **Location:** Nam Tu Liem, Ha Noi
 
 ---
-
-### ⚡ GitHub Stats
-
-![Lân's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanHoangPh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHoangPh&layout=compact&theme=radical)
